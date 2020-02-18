@@ -1,0 +1,6 @@
+FIREBALL_SPEED = None
+WINNER_MESSAGE =""
+MESSAGE_COLOR = (255,0,0)
+STAGES = 7 #keep it less than or equal to 8
+MESSAGE_FONT = None
+BOMB_COUNT = 6
